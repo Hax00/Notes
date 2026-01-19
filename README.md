@@ -1,5 +1,5 @@
 # Notes
-
+'
 Autofit All Tables
 Sub AutoFitAllTables()
     Dim tbl As Table
@@ -12,3 +12,4 @@ Sub AutoFitAllTables()
     Next tbl
     MsgBox "All tables have been auto-fitted!"
 End Sub
+'
